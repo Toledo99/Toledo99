@@ -1,7 +1,7 @@
-[![MasterHead](https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif)](https://rishavchanda.io)
+[![MasterHead](https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Tony Toledo</h1>
 <h3 align="center">A passionate developer from Mexico, eager to keep learning and growing in the technological world</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=animated+coding+gif&tbm=isch&ved=2ahUKEwjK4KK0up36AhV7l2oFHS8XAC4Q2-cCegQIABAA&oq=animated+coding+gif&gs_lcp=CgNpbWcQAzIECAAQEzIECAAQEzIICAAQHhAIEBMyCAgAEB4QCBATOgQIIxAnOgUIABCABDoECAAQQzoGCAAQHhAHOggIABAeEAgQB1D3PViyRGDgR2gBcAB4AIABWYgB1gWSAQE5mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=HJgmY8riHfuuqtsPr66A8AI&bih=821&biw=1440&rlz=1C5CHFA_enMX968MX979#imgrc=sDc0a5ilIqY_XM">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toledo99&label=Profile%20views&color=0e75b6&style=flat" alt="toledo99" /> </p>
 
 - 🌱 I’m currently learning **REACT development and cloud computing**
