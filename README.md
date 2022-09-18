@@ -9,6 +9,10 @@
 
 - 📫 How to reach me **toledo.toga99@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/drive/u/1/folders/1OiPsxF1CCgc7Zce4rYP5QWCSIhXyTNx7](https://drive.google.com/drive/u/1/folders/1OiPsxF1CCgc7Zce4rYP5QWCSIhXyTNx7)
+
+- ⚡ Fun fact **I am a hiking and meditation guide in my spare time**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/antonio-toledo-g/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/antonio-toledo-g/" height="30" width="40" /></a>
