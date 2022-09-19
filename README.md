@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **toledo.toga99@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/1/folders/1OiPsxF1CCgc7Zce4rYP5QWCSIhXyTNx7](https://drive.google.com/drive/u/1/folders/1OiPsxF1CCgc7Zce4rYP5QWCSIhXyTNx7)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/drive/u/1/folders/1OiPsxF1CCgc7Zce4rYP5QWCSIhXyTNx7)
 
 - ⚡ Fun fact **I am a hiking and meditation guide in my spare time**
 
