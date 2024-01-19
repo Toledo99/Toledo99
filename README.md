@@ -6,9 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toledo99&label=Profile%20views&color=0e75b6&style=flat" alt="toledo99" /> </p>
 
-- 🌱 I’m currently learning **REACT development and cloud computing**
-
-- 💬 Ask me about **Java, C++, IA, Competitive programming, SCRUM**
+- 🌱 I’m currently learning **Web development with typescript and Preact**
 
 - 📫 How to reach me **toledo.toga99@gmail.com**
 
